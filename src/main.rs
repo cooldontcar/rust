@@ -1,11 +1,11 @@
 use std::io;
 
+fn create_new(){
 
+}
 
 fn main() {
 
-   let x = 2;
 
-    println!("{x}");
 }
 
